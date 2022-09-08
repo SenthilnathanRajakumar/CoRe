@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECT\\LearningHub\\Repos\\LearningHub\\FirebaseUI\\FirebaseUI.csproj",
+      "projectUniqueName": "D:\\PROJECT\\LearningHub\\Repos\\FirebaseUI\\FirebaseUI.csproj",
       "projectName": "FirebaseUI",
-      "projectPath": "D:\\PROJECT\\LearningHub\\Repos\\LearningHub\\FirebaseUI\\FirebaseUI.csproj",
+      "projectPath": "D:\\PROJECT\\LearningHub\\Repos\\FirebaseUI\\FirebaseUI.csproj",
       "packagesPath": "C:\\Users\\SENTHILNATHAN\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECT\\LearningHub\\Repos\\LearningHub\\FirebaseUI\\obj\\",
+      "outputPath": "D:\\PROJECT\\LearningHub\\Repos\\FirebaseUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENTHILNATHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
